@@ -1,0 +1,18 @@
+station A 2 12
+station B 4 6
+station E 8 4
+station C 20 6
+station D 14 14
+station F 12 8
+station G 8 0
+station H 12 4
+link A B 7
+link B E 5
+link E G 4
+link G H 5
+link H C 9
+link C D 10
+link C F 8
+link E F 8
+
+
